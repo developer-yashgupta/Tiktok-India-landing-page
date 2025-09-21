@@ -35,9 +35,10 @@ body {
 }
 
 .app-icon {
-    width: 120px;
-    height: 120px;
+    width: 160px;
+    height: 160px;
     border-radius: 24px;
+    border: 2px solid rgb(155, 203, 246);
     margin-bottom: 1rem;
     box-shadow: 0 8px 24px rgba(254, 44, 85, 0.2);
 }
