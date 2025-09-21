@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     const contactForm = document.getElementById('contactForm');
-    const CONTACT_EMAIL = 'tiktokindia443+contact@gmail.com';
+    const CONTACT_EMAIL = 'TicTocindia443+contact@gmail.com';
 
     contactForm.addEventListener('submit', function(e) {
         e.preventDefault();

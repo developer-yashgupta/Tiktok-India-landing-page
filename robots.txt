@@ -22,5 +22,5 @@ User-agent: Googlebot-Mobile
 Allow: /
 
 # Sitemap locations
-Sitemap: https://www.tiktok.co.in/sitemap.xml
-Sitemap: https://www.tiktok.co.in/sitemap-images.xml
+Sitemap: https://www.TicToc.co.in/sitemap.xml
+Sitemap: https://www.TicToc.co.in/sitemap-images.xml

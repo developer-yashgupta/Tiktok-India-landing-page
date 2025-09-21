@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
 const structuredData = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "TikTok India",
+    "name": "TicToc India",
     "operatingSystem": "Android, iOS",
     "applicationCategory": "SocialNetworkingApplication",
     "offers": {
@@ -55,8 +55,8 @@ const structuredData = {
         "bestRating": "5",
         "worstRating": "1"
     },
-    "description": "Create and share short videos with TikTok India. Available in 14+ Indian languages with AI-powered content, special effects, and professional editing tools.",
-    "downloadUrl": "https://www.tiktok.co.in/download",
+    "description": "Create and share short videos with TicToc India. Available in 14+ Indian languages with AI-powered content, special effects, and professional editing tools.",
+    "downloadUrl": "https://www.TicToc.co.in/download",
     "featureList": [
         "14+ Indian languages support",
         "AI-powered content recommendations",
@@ -66,14 +66,14 @@ const structuredData = {
     ],
     "author": {
         "@type": "Organization",
-        "name": "TikTok India"
+        "name": "TicToc India"
     },
     "publisher": {
         "@type": "Organization",
-        "name": "TikTok India",
+        "name": "TicToc India",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://www.tiktok.co.in/images/logo.png"
+            "url": "https://www.TicToc.co.in/images/logo.png"
         }
     }
 };
@@ -84,24 +84,24 @@ const faqStructuredData = {
     "@type": "FAQPage",
     "mainEntity": [{
         "@type": "Question",
-        "name": "How do I create an account on TikTok India?",
+        "name": "How do I create an account on TicToc India?",
         "acceptedAnswer": {
             "@type": "Answer",
             "text": "Download the app and sign up using your phone number or email. You can also use your existing social media accounts."
         }
     }, {
         "@type": "Question",
-        "name": "Is TikTok India free to use?",
+        "name": "Is TicToc India free to use?",
         "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, TikTok India is completely free to download and use. Create and share content without any charges."
+            "text": "Yes, TicToc India is completely free to download and use. Create and share content without any charges."
         }
     }, {
         "@type": "Question",
-        "name": "What are the system requirements for TikTok India?",
+        "name": "What are the system requirements for TicToc India?",
         "acceptedAnswer": {
             "@type": "Answer",
-            "text": "TikTok works on Android 4.4+ and iOS 11.0+ devices with at least 1GB of free storage."
+            "text": "TicToc works on Android 4.4+ and iOS 11.0+ devices with at least 1GB of free storage."
         }
     }]
 };
